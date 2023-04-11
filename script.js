@@ -6,7 +6,7 @@ const person = {
 };
 
 let team =  ["John", "Bob", "Alice", "Poppy"];
-let team1 =  ["John", "Bob", "Alice", "Poppy"];
+let team1 =  [...players];
 
 
 let cap1 = {
